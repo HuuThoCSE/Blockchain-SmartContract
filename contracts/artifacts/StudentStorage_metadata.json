@@ -23,6 +23,11 @@
 						"internalType": "string",
 						"name": "",
 						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
@@ -43,6 +48,11 @@
 					{
 						"internalType": "string",
 						"name": "_university_name",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_major",
 						"type": "string"
 					}
 				],
@@ -80,11 +90,11 @@
 	},
 	"sources": {
 		"contracts/StudentStorage.sol": {
-			"keccak256": "0x9c50c4d8f23a27e862ed906ff904b4a21148060645f15cf51d41df6e5c54209c",
+			"keccak256": "0xc844d98690422d6f77a36bc7aeb8f0776015a43814ee1c64c51262c2cf147a35",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://38926ca9c090c2dc3eeac98c6c7c1abf5a7afd806d59862ff7bde9f77fe1f2e1",
-				"dweb:/ipfs/QmfRtEqe3fkpspUZXkGtuvL2CEeMqLc1JtivWeBG5P2HJt"
+				"bzz-raw://60a20b5a23292ff480471c8f100e4079ce2230e67e84d647474d110694bd964f",
+				"dweb:/ipfs/Qma1QoVdvc5H3Ms6rWrUEkPrWrLQdK5dP2NpRTuPNRLfsN"
 			]
 		}
 	},
